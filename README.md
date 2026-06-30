@@ -1,15 +1,33 @@
-![smiling with fries](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2500&pause=0500&color=F78300&multiline=true&width=435&lines=SlibProg)
+# Hi, welcome to Slib's Github Page!
+
+I'm a simple brazillian dev, i make minecraft mods and some roblox games!
+I have a studio in modrinth that is very famous! I will talk about it later...
 
 ---
 
-Hi, i'm slib. I make minecraft datapacks, modpacks, resource packs and games. I made some youtube videos :b
+# Tools & Languages
+
+For code editing, I use [Zed](https://zed.dev), it is an open source code editor, but it only uses his own extensions and themes.
+
+I usually use Java for my mods, I also use Lua, ForgeScript (Javascript), Html and Css, Lua for roblox games and other projects, and ForgeScript for my Discord Bots, Html and Css for my web projects!
+
+I'm trying to learn Python, Normal Javascript, GDScript and C# for my future projects!
 
 ---
 
-| Some Links | Url |
-|------------|-----|
-| **My Youtube Channel** | https://youtube.com/@ImSlib/ |
-| **My Group Website** | https://edonme.dev/ |
-| **My Modrinth Account** | https://modrinth.com/user/_Slib |
-| **My Discord Server** | https://discord.gg/r8KjkgmMSp |
-| **My Kick Account** | https://kick.com/slibiblib |
+# EdonMe Studios
+
+I'm the owner of [EdonMe Studios](https://edonme.dev), a minecraft modding studio.
+It has over 124k downloads. The group has 8 members, 5 devs and 3 designers.
+
+---
+
+# Future Projects
+
+I'm working on a few future projects, including Gratvity, an gravity changer game; Doritos, my discord bot and my website!
+
+---
+
+# Bye!
+
+Thanks for reading my github page, bye!
